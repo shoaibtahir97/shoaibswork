@@ -1,0 +1,38 @@
+.main{
+    border: 6px solid black;
+    width: 200px;
+    margin: 0 auto;
+}
+.display{
+    width: 95%;
+    background-color: lightgreen;
+    color:whitesmoke;
+
+}
+
+.clearbutton{
+    width: 100%;
+    margin-top: 10px;
+   background-color: lightgreen;
+    color: black;
+}
+
+button{
+    width: 45px;
+    margin: 1px;
+    background-color:lightgreen;
+    color: black;
+}
+
+.zero{
+    width:95px  ;
+    background-color:lightgreen;
+    margin-top: 5px;
+    color: black;
+}
+
+.name{
+    width: 100%;
+    margin-top: 10px;
+    background-color:darkgreen;
+}
